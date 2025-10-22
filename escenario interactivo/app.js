@@ -8,4 +8,7 @@ gasolinas.forEach(g => {
     contador++;
     contadorEl.textContent = contador;
   });
-});
+}); 
+
+
+
